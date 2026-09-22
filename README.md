@@ -1,65 +1,65 @@
-# 🔥 **Đẳng Cấp Dealer — DangCapDealer**
+# 🔥 **DangCapDealer — Built Different, Coded Louder**
 
-> _Đi một mình không cô đơn. Code một mình mới đau đầu._  
-
----
-
-## 👋 Ai đây?
-
-Tên tao: **Đẳng Cấp Dealer**  
-Nghề: **code trader + chơi hệ sáng tạo nội dung + thích đi lang thang cho đời nó mặn**  
-
-Tính tao đơn giản:  
-- Code ngon  
-- Trade tỉnh  
-- Sống tự do  
-- Ai thích nói đạo lý tao cho chart vả thẳng mặt  
-
-Không phải kiểu “trader ngồi cà phê check lệnh” đâu. Tao đi bụi, ngồi vỉa hè code bot, lúc thì núi rừng, lúc thì biển sóng.  
-Laptop còn pin là còn hành trình.  
+> *Going solo is not lonely. Debugging solo at 3 AM? That is the real boss fight.*
 
 ---
 
-## ⚙️ Tao làm gì?
+## 👋 Who’s Behind the Screen?
 
-| Hạng mục | Mô tả |
+Name: **DangCapDealer**
+Role: **trader who codes + creative-content chaos engine + full-time seeker of a life with more flavor**
+
+The operating system is simple:
+- Clean code
+- Calm trades
+- Free life
+- Bring philosophy to the chart and watch the candles answer back
+
+Not the “café trader checking one position” type. This is dusty roads, street-side bot builds, mountain air one day, ocean noise the next.
+As long as the laptop has battery, the mission stays live. ⚡
+
+---
+
+## ⚙️ What Gets Built Here?
+
+| Arena | What happens |
 |---|---|
-| 🤖 **Trading Automation** | EA MQL4/MQL5, Python bot, auto order |
-| 🧠 **Risk & Data System** | Backtest, thống kê PnL, volume, equity | 
-| 🛰️ **Automation Tools** | Bot Telegram, auto crawl, auto chart check |
-| 🗿 **Content** | Nói chuyện thật, đập ảo tưởng, tỉnh ngộ mindset |
+| 🤖 **Trading Automation** | MQL4/MQL5 EAs, Python bots, automatic order execution |
+| 🧠 **Risk & Data Systems** | Backtests, PnL analytics, volume and equity intelligence |
+| 🛰️ **Automation Tools** | Telegram bots, automated crawling, automatic chart checks |
+| 🗿 **Content** | Real talk, illusion-breaking, sharp mindset resets |
 
 ---
 
-## 📌 Dự án trên GitHub
+## 📌 GitHub Projects
 
-- `DealerEA` — EA trading sinh tồn giữa chợ forex  
-- `iRebatesBot` — bot cashback cho anh em trade không phí như gà  
-- `DealerAnalytics` — hệ thống đọc thị trường, hiểu bản thân trước khi đổ lỗi  
-- `VolumeHeatmap` — nhìn dòng tiền thấy rõ số phận kẻ yếu tay  
-
----
-
-## 🧭 Tôn chỉ sống & code
-
-> _Tiền thị trường cho, thị trường lấy. Khác nhau ở biết mình là ai._
-
-- Không chase trend. Tao **tạo** trend.  
-- Không khoe lifestyle. Tao **sống** lifestyle.  
-- Trading không phải giấc mơ. **Là chiến trường.**  
-- Và đời không phức tạp. **Người làm nó ngu đi thôi.**
+- `DealerEA` — a survival-grade trading EA for the forex jungle
+- `iRebatesBot` — cashback bot for traders who refuse to bleed fees like amateurs
+- `DealerAnalytics` — market-reading system: know yourself before blaming the chart
+- `VolumeHeatmap` — follow the money, see where weak hands meet their fate
 
 ---
 
-## 📲 Liên hệ
+## 🧭 Code & Life Doctrine
+
+> *The market gives. The market takes. The difference is knowing exactly who you are when it does.*
+
+- Do not chase trends. **Create them.**
+- Do not flex a lifestyle. **Live one.**
+- Trading is not a dream. **It is a battlefield.**
+- Life is not complicated. **People just make it stupid.**
+
+---
+
+## 📲 Signal Line
 
 - Telegram: **@TuAnh_iRebatesBD**
 - Website: **irebates.info**
-- Tư duy: **Sống như chart – lên xuống có nhịp, đừng đục lỗ đáy cốc.**
+- Mindset: **Live like a chart — ride the rhythm, never stubbornly average into the bottom.**
 
 ---
 
-## 🛣️ Lời kết từ kẻ đi bụi có code
+## 🛣️ Final Words from a Road-Worn Coder
 
-> _Những kẻ tìm đường thường bỏ cuộc.  
-Còn những kẻ tự tạo đường… không bao giờ lạc._
+> *Those who search for a path often quit.
+> Those who build their own path never get lost.*
